@@ -1,0 +1,48 @@
+h1{
+	font-family: font-family: 'Supermercado One', cursive;
+}
+
+body{
+	background-color: lightgray;
+	margin: 0;
+	line-height: 30px;
+
+}
+
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	border: 20px solid #1464A7;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+h2{
+	text-align: center;
+	text-shadow: 1px;
+}
+
+footer{
+	background-color: #1464A7;
+	text-align: center;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0px;
+}
